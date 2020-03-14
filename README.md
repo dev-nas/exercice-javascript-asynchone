@@ -1,1 +1,1 @@
-# exercice-javascript-asynchone
+# exercice-javascript-asynchrone
